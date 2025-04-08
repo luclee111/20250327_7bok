@@ -315,7 +315,7 @@ html, body {
 .chart-container {
   position: relative;
   width: 900px;
-  height: 700px;
+  height: 900px;
   margin: 0 auto;
   overflow: visible;
   background: radial-gradient(circle, #000000 0%, #242423 100%);
