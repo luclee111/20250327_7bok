@@ -315,7 +315,7 @@ html, body {
 .chart-container {
   position: relative;
   width: 900px;
-  height: 900px;
+  height: 800px;
   margin: 0 auto;
   overflow: visible;
   background: radial-gradient(circle, #000000 0%, #242423 100%);
@@ -801,7 +801,7 @@ body, html {
 
 .chart-container svg {
   width: 900px;
-  height: 700px;
+  height: 800px;
 }
 
 /* 기본 Swiper 스타일 덮어쓰기 */
